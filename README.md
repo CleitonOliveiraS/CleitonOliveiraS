@@ -1,4 +1,4 @@
-### Hi my name is Cleiton, Welcome to the dark theme side.
+### Hi, my name is Cleiton.
 <div align="center">
   <img alt="Jesus-Espacial" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/805f7f68040289.5b569a1dadc07.gif">
 </div>
